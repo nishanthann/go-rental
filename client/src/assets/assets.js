@@ -35,6 +35,7 @@ import testimonial_image_1 from "./testimonial_image_1.png";
 import testimonial_image_2 from "./testimonial_image_2.png";
 
 import main_auto from "./main_auto.png";
+import banner_car_image from "./banner_car_image.png";
 
 import user_profile from "./user_profile.png";
 import upload_icon from "./upload_icon.svg";
@@ -107,6 +108,7 @@ export const assets = {
   testimonial_image_2,
 
   main_auto,
+  banner_car_image,
 
   upload_icon,
   user_profile,
